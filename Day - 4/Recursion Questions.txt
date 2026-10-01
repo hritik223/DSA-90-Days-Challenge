@@ -1,0 +1,10 @@
+Q.1:  Solution.java
+Count total paths in a maze to move from (0, 0) to (n, m)?
+
+Q.2:  Recursion.java
+Place tiles of size 1 x m in a floor os size n x m .
+n = 4, m = 2 |
+
+Q.3: Find the number of ways in which you can invite the n people to your party, single, or in pairs.  n = 4;
+
+Q.4: Print all subsets of a set of first n natural number. n = 3
